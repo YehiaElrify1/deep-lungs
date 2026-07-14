@@ -1,0 +1,12 @@
+you need these two Terminal windows running:
+
+
+// Here in the terminal of project:
+
+conda activate pneumonia_env
+uvicorn api:app --reload
+
+
+// In another terminal:
+
+ngrok http --domain=juice-tamer-domelike.ngrok-free.dev 8000

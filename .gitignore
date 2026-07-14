@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+pneumonia_model/chest_xray/
+**/__pycache__/
+**/.DS_Store
