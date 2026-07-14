@@ -303,6 +303,18 @@ http://localhost:8000/redoc  # ReDoc
 
 ---
 
+## 🙌 Credits & Acknowledgements
+
+A huge shoutout to the person who made the AI core of this project possible:
+
+| Contributor | Contribution |
+|---|---|
+| [**Youcef Bahgat**](https://github.com/Youcef-bahgat) | 🧠 Built and trained the Xception-based Pneumonia classification model, achieving ~96% accuracy on the chest X-ray dataset. |
+
+> The deep learning model powering this entire application — `X-Ray_Pneumonia_classification.keras` — was designed, trained, and delivered by **[@Youcef-bahgat](https://github.com/Youcef-bahgat)**. Without his work on the ML side, this app would not exist. Go check out his GitHub! 🚀
+
+---
+
 <div align="center">
 
 **Built with ❤️ using Flutter & TensorFlow**
